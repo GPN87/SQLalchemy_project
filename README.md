@@ -4,7 +4,7 @@ The notebook file (climate_starter.ipynb) contains a pandas/matplotlib analysis 
 ![precipitation analysis](images/precipitation.png)
 
 The .py file contains code for API endpoint routes related to the sqlite database, built using Flask. There are two dynamic routes, where users can request temperature data within specified dates. Data is returned jsonified.
-
+![api home route](images/flask.png)
 This was my first experience with the server-side of API requests.
 
 ## How to use
